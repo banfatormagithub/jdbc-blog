@@ -1,5 +1,5 @@
-
-I was asked by a subscriber on my YouTube channel "What is the difference between the new JDBC Client in Spring Boot 3.2 and Spring Data JDBC"? I thought that was a great question and decided to make a video addressing that question. In this tutorial we explore the various ways we can communicate with a database in Java & Spring.
+JDBC Client vs Spring Data JDBC
+I was learning on YouTube and I also want to know the difference between the new JDBC Client in Spring Boot 3.2 and Spring Data JDBC I thought that was a great opportunity and I decided to learned the difference between them. In this tutorial we explore the various ways we can communicate with a database in Java & Spring.
 
 Getting Started
 To get started you can head over to start.spring.io and create the following project:
